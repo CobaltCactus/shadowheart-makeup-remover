@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="GameProject" type="LSString" value=""/>
+            <attribute id="Module" type="LSString" value="c557359f-1ca3-e958-a66e-f861a0c053f4"/>
+            <attribute id="Name" type="LSString" value="shadowheart_makeup_remover"/>
+            <attribute id="UUID" type="LSString" value="ce7dac9d-0b52-f07d-ab18-ac6da4514682"/>
+            <children>
+                <node id="Categories"/>
+            </children>
+        </node>
+    </region>
+</save>
