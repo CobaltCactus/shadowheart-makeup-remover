@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <save>
-    <version major="4" minor="7" revision="1" build="3"/>
+    <version major="4" minor="8" revision="0" build="10"/>
     <region id="Config">
         <node id="root">
             <children>
@@ -8,11 +8,11 @@
                     <children>
                         <node id="ModuleShortDesc">
                             <attribute id="Folder" type="LSString" value="karlach_makeup_remover_8a851c90-80a1-aefe-fa57-4df262789c6c"/>
-                            <attribute id="MD5" type="LSString" value="92ae5c2df98777c464300fb9c7a5e6d2"/>
+                            <attribute id="MD5" type="LSString" value="37b96058984e75d6245aa0182223c669"/>
                             <attribute id="Name" type="LSString" value="Karlach&apos;s Makeup Remover"/>
                             <attribute id="PublishHandle" type="uint64" value="4323047"/>
                             <attribute id="UUID" type="guid" value="8a851c90-80a1-aefe-fa57-4df262789c6c"/>
-                            <attribute id="Version64" type="int64" value="36028797018963971"/>
+                            <attribute id="Version64" type="int64" value="36028797018963972"/>
                         </node>
                     </children>
                 </node>
@@ -20,22 +20,30 @@
                     <children>
                         <node id="ModuleShortDesc">
                             <attribute id="Folder" type="LSString" value="GustavDev"/>
-                            <attribute id="MD5" type="LSString" value="96c19798a020e178251944be557fc464"/>
+                            <attribute id="MD5" type="LSString" value="c360fcf32ac7d77e2ba190ccb102c94d"/>
                             <attribute id="Name" type="LSString" value="GustavDev"/>
                             <attribute id="PublishHandle" type="uint64" value="0"/>
                             <attribute id="UUID" type="guid" value="28ac9ce2-2aba-8cda-b3b5-6e922f71b6b8"/>
-                            <attribute id="Version64" type="int64" value="145100393449790344"/>
+                            <attribute id="Version64" type="int64" value="145241130939120737"/>
+                        </node>
+                        <node id="ModuleShortDesc">
+                            <attribute id="Folder" type="LSString" value="GustavX"/>
+                            <attribute id="MD5" type="LSString" value="180daa208a8a447d4ea7f6b4a47e93f1"/>
+                            <attribute id="Name" type="LSString" value="GustavX"/>
+                            <attribute id="PublishHandle" type="uint64" value="0"/>
+                            <attribute id="UUID" type="guid" value="cb555efe-2d9e-131f-8195-a89329d218ea"/>
+                            <attribute id="Version64" type="int64" value="145241152413957217"/>
                         </node>
                     </children>
                 </node>
                 <node id="ModuleInfo">
                     <attribute id="Author" type="LSString" value="CobaltCactus"/>
                     <attribute id="CharacterCreationLevelName" type="FixedString" value=""/>
-                    <attribute id="Description" type="LSString" value="Removes Shadowheart&apos;s makeup. Note: Shadowheart wears Tav &quot;Makeup 9&quot; by default, so that is also overridden with this mod. Conflicts with Karlach&apos;s makeup remover."/>
-                    <attribute id="FileSize" type="uint64" value="1602666"/>
+                    <attribute id="Description" type="LSString" value="4/16/25: Patch 8 ready! Removes Shadowheart&apos;s makeup. Note: Shadowheart wears Tav &quot;Makeup 9&quot; by default, so that is also overridden with this mod. Conflicts with Karlach&apos;s makeup remover."/>
+                    <attribute id="FileSize" type="uint64" value="1602794"/>
                     <attribute id="Folder" type="LSString" value="shadowheart_makeup_remover_c557359f-1ca3-e958-a66e-f861a0c053f4"/>
                     <attribute id="LobbyLevelName" type="FixedString" value=""/>
-                    <attribute id="MD5" type="LSString" value="92ae5c2df98777c464300fb9c7a5e6d2"/>
+                    <attribute id="MD5" type="LSString" value="37b96058984e75d6245aa0182223c669"/>
                     <attribute id="MenuLevelName" type="FixedString" value=""/>
                     <attribute id="Name" type="LSString" value="Shadowheart&apos;s Makeup Remover"/>
                     <attribute id="NumPlayers" type="uint8" value="4"/>
@@ -43,7 +51,7 @@
                     <attribute id="PublishHandle" type="uint64" value="4322877"/>
                     <attribute id="StartupLevelName" type="FixedString" value=""/>
                     <attribute id="UUID" type="FixedString" value="c557359f-1ca3-e958-a66e-f861a0c053f4"/>
-                    <attribute id="Version64" type="int64" value="36028797018963972"/>
+                    <attribute id="Version64" type="int64" value="36028797018963973"/>
                     <children>
                         <node id="PublishVersion">
                             <attribute id="Version64" type="int64" value="144255927717549775"/>
